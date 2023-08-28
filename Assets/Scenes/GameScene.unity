@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -575,6 +575,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4693193731760167377, guid: 55f8207d678d24fa5bc5e10b9b6a0e07,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: fee829f9d44739349bf1490795d97a61,
+        type: 2}
     - target: {fileID: 6753395508412018399, guid: 55f8207d678d24fa5bc5e10b9b6a0e07,
         type: 3}
       propertyPath: m_Name
@@ -1093,6 +1099,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4693193731760167377, guid: 55f8207d678d24fa5bc5e10b9b6a0e07,
+        type: 3}
+      propertyPath: TomatoPrefab
+      value: 
+      objectReference: {fileID: 8590886775805989776, guid: f3c2ae3e5b5c49442ac0e566bc04a290,
+        type: 3}
+    - target: {fileID: 4693193731760167377, guid: 55f8207d678d24fa5bc5e10b9b6a0e07,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: b4e56adce3207e34e97723724a2bd39e,
+        type: 2}
     - target: {fileID: 6753395508412018399, guid: 55f8207d678d24fa5bc5e10b9b6a0e07,
         type: 3}
       propertyPath: m_Name
